@@ -2,13 +2,13 @@
 
 
 <div align="center">
-<img src="https://i.pinimg.com/736x/12/71/a5/1271a5023ed8f830ff48e66f80e086f5.jpg" align="center" height="250" width="800" />
+<img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" align="center" height="250" width="800" />
 </div>  
   
 
 
 
-<h1 align="center">Hola! Bienvenido 💻 soy Jose 👋</h1>
+<h1 align="center">Hola! Bienvenido 💻 soy José Morales 👋</h1>
 
 Desarrollador Front-End con una pasión innata por la resolución de problemas y la creación de soluciones web innovadoras. Mi viaje en el mundo de la programación ha sido una emocionante travesía de aprendizaje y descubrimiento. Con una sed constante de conocimiento, he abrazado los desafíos que este campo en constante evolución me ha presentado. Siempre estoy buscando nuevas formas de ampliar mis habilidades y aprovechar las últimas tecnologías para crear experiencias digitales innovadoras.
 
