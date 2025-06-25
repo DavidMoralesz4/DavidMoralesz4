@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://innowise-group.com/wp-content/uploads/2022/12/beslv3.jpg" align="center" height="250" width="800" />
+<img src="https://i.pinimg.com/736x/12/71/a5/1271a5023ed8f830ff48e66f80e086f5.jpg" align="center" height="250" width="800" />
 </div>  
   
 
@@ -59,16 +59,13 @@ En el desarrollo Frontend,  puedo dar vida a mis ideas y diseñar interfaces de 
 
 ## ⚙️ &nbsp;Connect with me  
 <div align="center">
-<a href="https://github.com/PSuarez18" target="_blank">
+<a href="https://github.com/DavidMoralesz4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/paolosuarez18/" target="_blank">
+<a href="https://linkedin.com/in/jose-morales1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/tomy.s.chavez" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/xxtomyxx18" target="_blank">
+<a href="https://www.instagram.com/zjose_44?igsh=dGltcWNjanI4dWlv&utm_source=qr" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
